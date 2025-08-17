@@ -16,5 +16,11 @@
         "key": "shawonff76",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "427b046ce2e47634",
+        "key": "shawonvip2",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
