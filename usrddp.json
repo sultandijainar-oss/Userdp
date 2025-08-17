@@ -17,6 +17,5 @@
         "username": "shawon2",
         "password": "shawon456",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
-    }
+        "Allowoffline": true
 ]
